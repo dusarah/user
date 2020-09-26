@@ -23,3 +23,10 @@ h1, h2, h3, h4, h5, h6 {
 .intro h1 {
     font-size: 80px;
 }
+span.heading-name {
+    color: #bd5d38 !important;
+}
+
+.ghanaian-names h4, .akan-form h5 {
+    color: #bd5d38;
+}
