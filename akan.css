@@ -140,3 +140,7 @@ span.heading-name {
 .rdio-danger input[type="radio"]:checked + label::after {
     background-color: #D9534F;
 }
+p.output span {
+    color: #bd5d38;
+    font-size: 50px;
+}
