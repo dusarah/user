@@ -30,3 +30,14 @@ span.heading-name {
 .ghanaian-names h4, .akan-form h5 {
     color: #bd5d38;
 }
+.ghanaian-names h4, .akan-form h5 {
+    color: #bd5d38;
+}
+
+.rdio input[type="radio"]:checked + label::after {
+    background-color: #bd5d38;
+}
+
+.text-right {
+    text-align: right;
+}
