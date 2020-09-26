@@ -5,3 +5,9 @@ body {
     padding-left: 54px;
     color: #343a40;
 }
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Saira Extra Condensed',serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #343a40;
+}
