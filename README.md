@@ -14,3 +14,7 @@ Akan's project to describe the names according to birth year and gender
 * html
 * CSS javascript 
 * bootstrap
+##live links
+*https://github.com/dusarah/user/blob/master/akan.html
+*https://github.com/dusarah/user/blob/master/akan.css
+*https://github.com/dusarah/user/blob/master/java.js
